@@ -1,9 +1,5 @@
-## Hi there 👋 I'm Lucas!
+## Hello 👋 I'm Lucas!
 
-🔭 I’m a Software Developer!
-
-- 🔭 I work as a Mobile Developer ate Superlogica, using React Native with TypeScript and apliynd clean code and clean archtecture concepts.
-- 🌱 I'm learning about Clean Code and Design Patterns, and Native Android and iOS development.
 - 📫 You can find me on: lucas.oliveira.timburi@gmail.com
 
 ##
